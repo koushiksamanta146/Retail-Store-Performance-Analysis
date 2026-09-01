@@ -159,9 +159,6 @@ Retail-Store-Performance-Analysis/
 ├── Retail_Store_Performance_Analysis.xlsx
 │
 ├── Dashboard/
-│   ├── retail_dashboard.png
-│   ├── location_performance.png
-│   └── regional_performance.png
 │
 └── README.md
 ```
